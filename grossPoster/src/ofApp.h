@@ -27,7 +27,5 @@ class ofApp : public ofBaseApp{
     cv::Mat matIm, matMask, testresult;
     
     ofShader shader;
-    
-    
 		
 };
